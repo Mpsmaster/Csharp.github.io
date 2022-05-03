@@ -1,0 +1,15 @@
+C:\C#\Ok\bin\Debug\net6.0\Ok.exe
+C:\C#\Ok\bin\Debug\net6.0\Ok.deps.json
+C:\C#\Ok\bin\Debug\net6.0\Ok.runtimeconfig.json
+C:\C#\Ok\bin\Debug\net6.0\Ok.dll
+C:\C#\Ok\bin\Debug\net6.0\Ok.pdb
+C:\C#\Ok\obj\Debug\net6.0\Ok.csproj.AssemblyReference.cache
+C:\C#\Ok\obj\Debug\net6.0\Ok.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ok\obj\Debug\net6.0\Ok.AssemblyInfoInputs.cache
+C:\C#\Ok\obj\Debug\net6.0\Ok.AssemblyInfo.cs
+C:\C#\Ok\obj\Debug\net6.0\Ok.csproj.CoreCompileInputs.cache
+C:\C#\Ok\obj\Debug\net6.0\Ok.dll
+C:\C#\Ok\obj\Debug\net6.0\refint\Ok.dll
+C:\C#\Ok\obj\Debug\net6.0\Ok.pdb
+C:\C#\Ok\obj\Debug\net6.0\Ok.genruntimeconfig.cache
+C:\C#\Ok\obj\Debug\net6.0\ref\Ok.dll
